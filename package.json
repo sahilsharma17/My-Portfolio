@@ -1,6 +1,7 @@
 {
   "name": "myapp",
   "version": "0.1.0",
+  "source": "src/index.html",
   "homepage": "https://sagar-7227.github.io/My-Portfolio",
   "private": true,
   "dependencies": {
